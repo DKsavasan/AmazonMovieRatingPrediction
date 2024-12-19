@@ -1,4 +1,4 @@
-# CS506 Midterm
+# Movie Rating Estimator
 
 The goal of this kaggle competition is to implement a predictive model that estimates the star rating (score) of a movie based on user reviews by using the initial features:‘Id’, ‘UserId’, ‘Time’, ‘ProductId’, ‘HelpfulnessNumerator’, ‘HelpfulnessDenominator’, ‘Summary’, ‘Text, and ’’Score’.
 
